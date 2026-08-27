@@ -2,19 +2,6 @@
 
 # ⚛️ Quantum Computing Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Quantum+Computing+Projects;Qiskit+%7C+PennyLane+%7C+Cirq;Quantum+Algorithms+%7C+Quantum+ML;Exploring+the+Future+of+Computing+⚛️" />
-
-<p>
-<img src="https://img.shields.io/github/stars/areenphadtare/Quantum-Computing?style=for-the-badge&logo=github">
-<img src="https://img.shields.io/github/forks/areenphadtare/Quantum-Computing?style=for-the-badge">
-<img src="https://img.shields.io/github/issues/areenphadtare/Quantum-Computing?style=for-the-badge">
-<img src="https://img.shields.io/github/license/areenphadtare/Quantum-Computing?style=for-the-badge">
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Quantum%20Computing&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
-
 ---
 
 # 🌌 About This Repository
